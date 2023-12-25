@@ -1,0 +1,7 @@
+print("╔═════════╗")
+print("║merhaba  ║")
+print("║Alperen  ║")
+print("║═════════║")
+print("║═════════║")
+print("║         ║")
+print("╚═════════╝")
