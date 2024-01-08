@@ -1,3 +1,4 @@
+
 print(" CHAT VPT 3.5")
 adi = ("Adın ne: ")
 
