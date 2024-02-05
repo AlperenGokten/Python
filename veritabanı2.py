@@ -15,3 +15,7 @@ try:
 except mysql.connector.Error as xx:
     print("hata oluştu")
     print (f"hata kodu:\n{xx}")
+
+secilenvt = xxx.cursor()
+secilenvt.execute("CREATE DATABASE pythondersleri")
+print("VT oluştu")
